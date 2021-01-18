@@ -9,4 +9,4 @@ An update will be posted everyday before midnight.
 
 Version 2 added feature: Will also maintain a win streak count which will reset to 0 on the day posession goes below 70%.
 
-Current Streak = 1
+Current Streak = 2
