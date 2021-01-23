@@ -12,5 +12,5 @@ Version 3.5 added feature: Will also maintain a max win streak and lose streak c
 Code Push Streak = 0
 Current Win Streak = 0
 Max Win Streak = 6
-Current Lose Streak = 2
-Max Lose Streak = 2
+Current Lose Streak = 3
+Max Lose Streak = 3
