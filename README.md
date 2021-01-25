@@ -8,9 +8,10 @@ An update will be posted everyday before midnight.
 Version 2 added feature: Will also maintain a win streak count which will reset to 0 on the day posession goes below 70%.
 Version 3 added feature: Will also maintain a losing streak and a code push streak to 1000 days of code repo.
 Version 3.5 added feature: Will also maintain a max win streak and lose streak count.
+Version 4 added feature: Maintain an integral streak count with possible negative values instead of using seperate lost streak.
 
 Code Push Streak = 0
-Current Win Streak = 0
+Current Win Streak = -4
 Max Win Streak = 6
-Current Lose Streak = 3
-Max Lose Streak = 3
+Least Win Streak = -4
+
