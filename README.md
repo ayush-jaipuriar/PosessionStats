@@ -11,7 +11,7 @@ Version 3.5 added feature: Will also maintain a max win streak and lose streak c
 Version 4 added feature: Maintain an integral streak count with possible negative values instead of using seperate lost streak.
 
 Code Push Streak = 0
-Current Win Streak = -3
+Current Win Streak = -2
 Max Win Streak = 6
 Least Win Streak = -5
 
