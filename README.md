@@ -12,7 +12,7 @@ Version 4 added feature: Maintain an integral streak count with possible negativ
 Version 5: Version 4 Removed. Its a gimmick. 
 
 Code Push Streak = 0
-Current Win Streak = 1
+Current Win Streak = 2
 Max Win Streak = 6
 Least Win Streak = -5
 
