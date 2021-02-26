@@ -10,9 +10,14 @@ Version 3 added feature: Will also maintain a losing streak and a code push stre
 Version 3.5 added feature: Will also maintain a max win streak and lose streak count.
 Version 4 added feature: Maintain an integral streak count with possible negative values instead of using seperate lost streak.
 Version 5: Version 4 Removed. Its a gimmick. 
+Version 6: Peak Training Streak and Headspace streak, Udemy Streak and LeetCode streak will also be maintained now.
 
-Code Push Streak = 0
+LeetCode Streak = 0
+Udemy Streak = 0
+Headspace Streak = 0
+Peak Streak = 0
 Current Win Streak = 1
+
 Max Win Streak = 6
 Least Win Streak = -5
 
