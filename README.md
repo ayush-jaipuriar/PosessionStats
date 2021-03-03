@@ -13,10 +13,10 @@ Version 5: Version 4 Removed. Its a gimmick.
 Version 6: Peak Training Streak and Headspace streak, Udemy Streak and LeetCode streak will also be maintained now.
 
 LeetCode Streak = 0
-Udemy Streak = 2
-Headspace Streak = 1
+Udemy Streak = 3
+Headspace Streak = 0
 Peak Streak = 0
-Current Win Streak = 2
+Current Win Streak = 3
 
 Max Win Streak = 6
 Least Win Streak = -5
