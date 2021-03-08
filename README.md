@@ -14,9 +14,9 @@ Version 6: Peak Training Streak and Headspace streak, Udemy Streak and LeetCode 
 
 LeetCode Streak = 0
 Udemy Streak = 0
-Headspace Streak = 3
+Headspace Streak = 0
 Peak Streak = 0
-Current Win Streak = 6
+Current Win Streak = 0
 
 Max Win Streak = 6
 Least Win Streak = -5
