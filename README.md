@@ -12,11 +12,12 @@ Version 4 added feature: Maintain an integral streak count with possible negativ
 Version 5: Version 4 Removed. Its a gimmick. 
 Version 6: Peak Training Streak and Headspace streak, Udemy Streak and LeetCode streak will also be maintained now.
 
+
 LeetCode Streak = 0
 Udemy Streak = 0
-Headspace Streak = 2
+Headspace Streak = 0
 Peak Streak = 0
-Current Win Streak = 4
+Current Win Streak = 1
 
 
 Max Win Streak = 6
