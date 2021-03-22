@@ -17,11 +17,12 @@ LeetCode Streak = 0
 Udemy Streak = 0
 Headspace Streak = 0
 Peak Streak = 0
+Possession Streak = 2
 Current Win Streak = 0
 
 
-Max Win Streak = 6
-Least Win Streak = -5
+Max Possession Streak = 6
+Least Possession Streak = -5
 Max Possession : 95%
 
 Days Won:
