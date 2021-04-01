@@ -17,7 +17,7 @@ LeetCode Streak = 0
 Udemy Streak = 0
 Headspace Streak = 0
 Peak Streak = 0
-Possession Streak = 2
+Possession Streak = 1
 Current Win Streak = 0
 
 
