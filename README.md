@@ -16,7 +16,7 @@ Version 7: All the mentioned streaks have to increment for a day to be considere
 LeetCode Streak / Udemy Streak = 0
 Headspace Streak = 1
 Peak Streak = 0
-Possession Streak = 1
+Possession Streak = 2
 Current Win Streak = 0
 
 
@@ -25,7 +25,7 @@ Least Possession Streak = -5
 Max Possession : 95%
 
 Days Won: 0
-Days Lost: 1
+Days Lost: 2
 
 
 
