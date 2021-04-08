@@ -14,9 +14,9 @@ Version 6: Peak Training Streak and Headspace streak, Udemy Streak and LeetCode 
 Version 7: All the mentioned streaks have to increment for a day to be considered won, else lost. Also, total days won and lost count will be maintained (Starting March 22,2021)
 
 LeetCode Streak / Udemy Streak = 0
-Headspace Streak = 1
+Headspace Streak = 2
 Peak Streak = 0
-Possession Streak = 3
+Possession Streak = 4
 Current Win Streak = 0
 
 
@@ -25,7 +25,7 @@ Least Possession Streak = -5
 Max Possession : 95%
 
 Days Won: 0
-Days Lost: 3
+Days Lost: 4
 
 
 
