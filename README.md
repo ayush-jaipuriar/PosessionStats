@@ -12,19 +12,20 @@ Version 4 added feature: Maintain an integral streak count with possible negativ
 Version 5: Version 4 Removed. Its a gimmick. 
 Version 6: Peak Training Streak and Headspace streak, Udemy Streak and LeetCode streak will also be maintained now.
 Version 7: All the mentioned streaks have to increment for a day to be considered won, else lost. Also, total days won and lost count will be maintained (Starting March 22,2021)
+Version 8: Saturday wont be considered for streaks.
 
-LeetCode Streak / Udemy Streak = 0
-Headspace Streak = 3
-Peak Streak = 0
+LeetCode Streak / Udemy Streak = 2
+Headspace Streak = 4
+Peak Streak = 1
 Possession Streak = 5
-Current Win Streak = 0
+Current Win Streak = 1
 
 
 Max Possession Streak = 6
 Least Possession Streak = -5
 Max Possession : 95%
 
-Days Won: 0
+Days Won: 1
 Days Lost: 5
 
 
