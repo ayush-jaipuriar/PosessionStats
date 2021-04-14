@@ -15,10 +15,10 @@ Version 7: All the mentioned streaks have to increment for a day to be considere
 Version 8: Saturday wont be considered for streaks.
 
 LeetCode Streak / Udemy Streak = 2
-Headspace Streak = 4
-Peak Streak = 1
-Possession Streak = 5
-Current Win Streak = 1
+Headspace Streak = 0
+Peak Streak = 0
+Possession Streak = 6
+Current Win Streak = 0
 
 
 Max Possession Streak = 6
@@ -26,7 +26,7 @@ Least Possession Streak = -5
 Max Possession : 95%
 
 Days Won: 1
-Days Lost: 5
+Days Lost: 6
 
 
 
