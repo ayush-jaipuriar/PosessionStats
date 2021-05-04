@@ -18,15 +18,15 @@ Version 9: Posession Stats will be the only criteria for day won or lost. Increa
 LeetCode Streak / Udemy Streak = 0
 Headspace Streak = 0
 Peak Streak = 0
-Possession Streak = 1
-Current Win Streak = 1
+Possession Streak = 2
+Current Win Streak = 2
 
 
 Max Possession Streak = 8
 Least Possession Streak = -5
 Max Possession : 96% (Tuesday, 27 Arpil 2021)
 
-Days Won: 7
+Days Won: 8
 Days Lost: 9
 
 
