@@ -15,11 +15,13 @@ Version 7: All the mentioned streaks have to increment for a day to be considere
 Version 8: Saturday wont be considered for streaks.
 Version 9: Posession Stats will be the only criteria for day won or lost. Increased win criteria to 85%. Day name will also be mentioned in the file name.
 
+Note : Due to hardware unavailability was unable to post changes for a few months. It has been fixed now. Expect daily updates.
+
 LeetCode Streak / Udemy Streak = 0
-Headspace Streak = 7
+Headspace Streak = 0
 Peak Streak = 0
-Possession Streak = 8
-Current Win Streak = 8
+Possession Streak = 0
+Current Win Streak = 0
 
 
 Max Possession Streak = 8
